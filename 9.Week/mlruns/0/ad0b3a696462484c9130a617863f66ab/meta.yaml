@@ -1,0 +1,15 @@
+artifact_uri: file:///home/batu/Desktop/metu-mth221/ODTU-MTH221-2023/week-8/mlruns/0/ad0b3a696462484c9130a617863f66ab/artifacts
+end_time: 1701165705297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad0b3a696462484c9130a617863f66ab
+run_name: RF Grid Search
+run_uuid: ad0b3a696462484c9130a617863f66ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701165701858
+status: 3
+tags: []
+user_id: batu
